@@ -2,17 +2,7 @@
 <urlset>
     <url>
         <loc>
-            http://localhost:8000/hello-world/
-        </loc>
-    </url>
-    <url>
-        <loc>
             http://localhost:8000/
-        </loc>
-    </url>
-    <url>
-        <loc>
-            http://localhost:8000/sample-page/
         </loc>
     </url>
     <url>
@@ -22,7 +12,7 @@
     </url>
     <url>
         <loc>
-            http://localhost:8000/products/sample-product-page/
+            http://localhost:8000/welcome-to-emmas-cafe/
         </loc>
     </url>
     <url>
@@ -32,7 +22,17 @@
     </url>
     <url>
         <loc>
-            http://localhost:8000/category/uncategorized/
+            http://localhost:8000/products/iced-coffee/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/muffin/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/croissant/
         </loc>
     </url>
     <url>
