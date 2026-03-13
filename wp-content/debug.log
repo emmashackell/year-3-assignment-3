@@ -1,0 +1,1 @@
+[13-Mar-2026 17:51:58 UTC] PHP Warning:  Undefined variable $parent_theme_name in /workspaces/year-3-assignment-3/.wordpress/wp-content/mu-plugins/one-click-child-theme/templates/create_child_form.php on line 18
